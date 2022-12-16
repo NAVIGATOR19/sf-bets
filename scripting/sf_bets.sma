@@ -1,7 +1,7 @@
 /*
 *	SF Bets				     v. 0.1
 *	by serfreeman1337	http://gf.hldm.org/
-*/
+*/111
 
 #include <amxmodx>
 #include <cstrike>
